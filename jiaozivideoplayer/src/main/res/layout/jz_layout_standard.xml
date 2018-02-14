@@ -109,7 +109,7 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:background="@drawable/jz_title_bg"
+        android:background="@android:color/transparent"
         android:gravity="center_vertical">
 
         <ImageView
